@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rongpat1
-- 👀 I’m interested in Software Engineering 
+- 👀 I’m interested in Full Stack Software Developement  
 - 🌱 I’m currently learning Coding...
 - 💞️ I’m looking to collaborate on any projects.... 
 - 📫 How to reach me @Insureronnie or https://www.linkedin.com/in/ronnie-patrick-403314231
